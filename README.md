@@ -25,3 +25,6 @@ If you ever experience issues, please [join our discord](https://discord.gg/8Nxz
 
 - [Grass landing page](https://www.getgrass.io)
 - [Grass dashboard](https://app.getgrass.io)
+
+./build.sh
+docker run --name v2 -d grass-vps 1087
