@@ -46,4 +46,5 @@ next-env.d.ts
 # linter
 .eslintcache
 v2.json
+v22.json
 
